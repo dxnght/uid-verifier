@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+.DS_Store
+CLAUDE.local.md
+001.sql
+.claude/
+specs/
